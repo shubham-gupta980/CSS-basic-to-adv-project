@@ -1,0 +1,119 @@
+* {
+    padding:0;
+    margin:0;
+}
+body {
+    background-color: rgb(226, 232, 232);
+}
+#navbar1 {
+    height:40px;
+    background-color: #404040;
+}
+a {
+    margin:14px
+}
+#navbar2 {
+    height:90px;
+    background-color: white;
+    border:1px solid black;
+    /* position:fixed; */
+}
+.nav2{
+    color: black;
+    text-decoration: none;
+    text-transform: uppercase;
+    /* background-image: url("https://bbdu.ac.in/wp-content/uploads/2018/10/bbd-logo.png");
+    background-size: cover; */
+
+}
+.nav1 {
+    color:white;
+    text-decoration: none;
+    text-align: center;
+}
+#navbar3 {
+    height:50px;
+    background-color: #243D77;
+}
+h1{
+    color:#243D77;
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+
+}
+h2{
+    color:#243D77;
+    text-align: center;
+    font-size: 35px;
+    margin-top:50px; 
+    margin-bottom: 50px; 
+}
+#container{
+    height:900px;
+    width:1470px;
+    border:2px solid black;
+    text-align: center;
+}
+
+#box1{
+    background-color: #404040;
+    height:300px;
+    width:300px;
+    display:inline-block;
+    margin:80px;
+    background-image: url("https://images.shiksha.com/mediadata/images/1558510681phphTCZL5.jpeg");
+    background-size:cover;
+    
+}
+#box2{
+    background-color: aqua;
+    height:300px;
+    width:300px;
+    display:inline-block;
+    margin:80px;
+    background-image:url("https://bbdu.ac.in/wp-content/uploads/bfi_thumb/mall-min-ppa7k5k6vh9k6y9locp8upv0ya19fndaex80t32xnk.png") ;
+    background-size: cover;
+    
+}
+#box3{
+    background-color: bisque;
+    height:300px;
+    width:300px;
+    display:inline-block;   
+    margin:80px; 
+    background-image:url("https://images.shiksha.com/mediadata/images/1558509883php83k0Ip.jpeg") ;
+    background-size: cover;
+}
+#box4{
+    background-color: bisque;
+    height:300px;
+    width:300px;
+    display:inline-block;   
+    margin:80px; 
+    background-image:url("https://bbdu.ac.in/wp-content/uploads/2018/02/hostel-min-2.png") ;
+    background-size: cover;
+}
+#box5{
+    background-color: bisque;
+    height:300px;
+    width:300px;
+    display:inline-block;   
+    margin:80px; 
+    background-image:url("https://bbdu.ac.in/wp-content/uploads/bfi_thumb/bbdu-library-3cpru3nhi9ibnyr8g1op1t4fsnizqt04np8298omubff8ij2k.jpg") ;
+    background-size: cover;
+}
+#box6{
+    background-color: bisque;
+    height:300px;
+    width:300px;
+    display:inline-block;   
+    margin:80px; 
+    background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSR9VjFkH0dYf1f6fa5GGIwcXbf6Ouf8SHS9s7oGLwizw&s") ;
+    background-size: cover;
+}
+#button{
+    color:black;
+    font-size:900px;
+    text-align:center ;
+}
